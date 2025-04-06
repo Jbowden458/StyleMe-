@@ -4,7 +4,7 @@ With the help of Style Me, you can comfortably uncover your unique style. Pick y
 Now, here is how everything will work:
 
     1.	Style Me, will first ask you a couple of questions about you.
-    2.	 decide your favorite music genre from a pick of; Hip-Hop, Rock, Country, Pop, and R&B.
+    2.	Decide your favorite music genre from a pick of; Hip-Hop, Rock, Country, Pop, and R&B.
     3.	Now brace yourself for the hardest but most fun part. Once you have decided on your ultimate genre, Style Me will ask you to decide on your first pick Artist using a dual-choice decision making process. There will be five rounds where you choose between two     amazing artists.
     
 Based on your picks, Style Me will generate a style tailored just for you.
