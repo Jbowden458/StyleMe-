@@ -1,6 +1,6 @@
-- ['X']  Finalize prject idea and make sure it is approved (Exercise 6 and input information in excel)
-- ['X']  Join KSU repository
-- ["X"]  Create a repository for the project 
+- [X]  Finalize prject idea and make sure it is approved (Exercise 6 and input information in excel)
+- [X]  Join KSU repository
+- [X]  Create a repository for the project 
 - [X]  Create a read.me for the repository 
 - [X]  Create a roadmap for the respository
 - [X]  Find an existing Python cde related to Style Me
